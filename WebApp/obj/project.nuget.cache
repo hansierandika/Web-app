@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ze9oah5P3ffJrR8tLna02hwamgT/1xn5PVwujS3TZoCQPvfI/sMbQTRF0MIxw4o4I3Zaqw1bRBJVIf+dbhCC3g==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\WebApp\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MY PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
